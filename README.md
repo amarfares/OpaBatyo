@@ -37,12 +37,13 @@ The following numbers can be verified from Code4rena, Sherlock & Cantina under o
 
 ## Private Engagements
 
-| Project                                             | Type                | Date           | Report                        |
-|-----------------------------------------------------|---------------------|----------------|-------------------------------|
-| [MEM Bridge](https://x.com/mem_tech)  | Cross-chain bridge  | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                   |
-| [Chad Finance](https://chadfinance.xyz/)            | CDP Stablecoin      | March, 2024    | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/ChadFinance-Final-Report.pdf)                   |
-| [Zero-G](https://x.com/zerogfinance)                                              | Liquid Restaking Protocol  | April, 2024    | Private, conducted under Code4rena private engagement terms                    |
-| [MEM Bridge Follow-up Review](https://x.com/mem_tech)                        | Cross-chain Bridge  | May, 2024    | Private                   |
+| Team/Firm       | Project                                               | Type                       | Date        | Report                                                                                                           |
+|-----------------|-------------------------------------------------------|----------------------------|-------------|------------------------------------------------------------------------------------------------------------------|
+| Hunter Security | [Pulse X Stable Swap](https://pulsex.com/)            | Stables Swap               | July, 2024  | [Report](https://github.com/aether-security/portfolio/blob/main/reports/PulseX-Hunter-Security-Audit-Report.pdf) |
+| 9LivesLabs      | [MEM Bridge](https://x.com/mem_tech)                  | Cross-chain Bridge         | March, 2024 | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/MEM-Bridge-Final-Report.pdf)                      |
+| 9LivesLabs      | [Chad Finance](https://chadfinance.xyz/)              | CDP Stablecoin             | March, 2024 | [Report](https://github.com/9LivesLabs/audit/blob/main/reports/ChadFinance-Final-Report.pdf)                     |
+| 9LivesLabs      | [Zero-G](https://x.com/zerogfinance)                  | Liquid Restaking Protocol  | April, 2024 | Private, conducted under Code4rena private engagement terms                                                      |
+| 9LivesLabs      | [MEM Bridge Follow-up Review](https://x.com/mem_tech) | Cross-chain Bridge         | May, 2024   | Private                                                                                                          |
 
 ### armormadeofwoe:
 3 Undisclosed private engagements as a junior, all claims can be backed up by the senior auditors involved:
